@@ -1,5 +1,7 @@
 # 桌面版脑图(DesktopNaotu) [![Join the chat at https://gitter.im/DesktopNaotu/DesktopNaotu](https://badges.gitter.im/DesktopNaotu/DesktopNaotu.svg)](https://gitter.im/DesktopNaotu/DesktopNaotu) [![加入桌面版脑图QQ群：330722928](https://pub.idqqimg.com/wpa/images/group.png)](https://shang.qq.com/wpa/qunwpa?idkey=cbd6fbc32adbe20c99c005bc559ec45bf3c9bfe581f9226ed14bd0951ae95739)
 
+> **【推荐】 欢迎大家关注我的新项目，一个AI时代的思维导图 [MindMap MT](https://github.com/topcss/mindmap) 简约而不简单；她已成为我们内部百人团队的事实标准，彻底取代了 XMind、MindMaster 等传统工具——纯文本 .mt 格式、AI 原生、开源免费、无节点限制、性能极致，真正为智能体时代而生。支持在线 PC端、移动端、VSCode插件的方式运行。**
+
 ## 1、中文介绍
 
 ### 软件介绍 [--> **English introduction**](README.md)
